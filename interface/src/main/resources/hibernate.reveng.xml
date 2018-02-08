@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+	<table-filter match-name="im_admin" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_admin_privs" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_admin_role" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_favorite" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_feed" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_feed_comment" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_feed_praise" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_friend" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_friend_view" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_group" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_group_member" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_iplist" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_menu" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_message" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_message_view" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_msg_history" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_orders" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_pro" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_redpacket" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_redpacket_history"
+		match-catalog="imdb">
+	</table-filter>
+	<table-filter match-name="im_relation" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_rock" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_rock_view" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_share" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_share_praise" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_share_praise_view"
+		match-catalog="imdb">
+	</table-filter>
+	<table-filter match-name="im_share_reply" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_share_reply_view"
+		match-catalog="imdb">
+	</table-filter>
+	<table-filter match-name="im_share_view" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_top" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_transform" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_user" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_user_pay" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_version" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_wallet" match-catalog="imdb"></table-filter>
+	<table-filter match-name="im_wallet_history" match-catalog="imdb"></table-filter>
+</hibernate-reverse-engineering>
