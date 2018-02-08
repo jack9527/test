@@ -5,7 +5,9 @@ import java.util.HashMap;
 
 import com.yx.base.parameter.Constants;
 import com.yx.base.parameter.ResponseData;
-
+/*
+工具类
+*/
 public class YxUtil {
 
 	public static void main(String args[]) {
